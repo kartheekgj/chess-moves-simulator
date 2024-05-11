@@ -1,0 +1,25 @@
+.layout {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.layout.dark {
+    background-color: #222;
+    color: #fff;
+}
+
+.header,
+.footer {
+    padding: 1rem;
+    text-align: center;
+}
+
+.header.dark,
+.footer.dark {
+    background-color: #333;
+}
+
+main {
+    flex: 1;
+}
