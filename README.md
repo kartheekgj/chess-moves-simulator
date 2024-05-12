@@ -37,4 +37,8 @@ You can check the working version at [https://kartheekgj.github.io/chess-moves-s
 ## Demo Simulation
 ![ezgif-3-ffd00c3589](https://github.com/kartheekgj/chess-moves-simulator/assets/1484950/3194c05c-e515-49ce-80db-d84cf05abebf)
 
+## Coverage report 
+![image](https://github.com/kartheekgj/chess-moves-simulator/assets/1484950/6140c2b4-a8c2-46b9-ba17-9c875dafeaee)
+
+
 
