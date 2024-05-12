@@ -7,6 +7,8 @@ The chessboard is an 8 x 8 grid with 64 cells in it. With 8 rows (1, 2, 3.... 8)
 - Input - The input string to your program will be the Type of chess piece and it’s position (cell number) on the chessboard. E.g. Pawn, G1
 - Output - Once you execute the program, the output will be a string of all possible cells in which the chess piece can move from its current position. For the above input, the output would be G2.
 
+### Solution
+- The solution is developed using ReactJs with hooks for state management. Deployed in github gh-pages.
 
 ### Installation
 
