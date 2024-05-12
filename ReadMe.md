@@ -27,3 +27,7 @@ You can check the working version at [https://kartheekgj.github.io/chess-moves-s
 5. The application will highlight the selected position and display potential moves in dark red on the chessboard.
 6. Review the highlighted squares to analyze the available move options.
 7. Change your selection to see the possible moves
+
+## Lighthouse Report
+![image](https://github.com/kartheekgj/chess-moves-simulator/assets/1484950/1dc7e837-896c-4ba7-9408-f65569dbaf37)
+
