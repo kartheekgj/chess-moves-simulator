@@ -15,4 +15,6 @@ git clone https://github.com/kartheekgj/chess-moves-simulator.git
 npm install
 npm run start
 ```
+Open the running application at [http://localhost:3000/](http://localhost:3000/)
+
 You can check the working version at [https://kartheekgj.github.io/chess-moves-simulator/](https://kartheekgj.github.io/chess-moves-simulator/)
