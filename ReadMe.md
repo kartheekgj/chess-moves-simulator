@@ -18,3 +18,12 @@ npm run start
 Open the running application at [http://localhost:3000/](http://localhost:3000/)
 
 You can check the working version at [https://kartheekgj.github.io/chess-moves-simulator/](https://kartheekgj.github.io/chess-moves-simulator/)
+
+## How Does It Work?
+1. Open the application and locate the options panel on the left side of the screen.
+2. Choose between a pawn, king, or queen by clicking on the respective option.
+3. Click or tap on the desired position on the chessboard where you want to position the selected chess piece.
+4. After selecting the position, click or tap on the "Possible Moves" button.
+5. The application will highlight the selected position and display potential moves in dark red on the chessboard.
+6. Review the highlighted squares to analyze the available move options.
+7. Change your selection to see the possible moves
