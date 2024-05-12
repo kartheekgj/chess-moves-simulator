@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/chess-moves-simulator/static/css/main.59017101.css",
-    "main.js": "/chess-moves-simulator/static/js/main.327cf358.js",
-    "index.html": "/chess-moves-simulator/index.html",
-    "main.59017101.css.map": "/chess-moves-simulator/static/css/main.59017101.css.map",
-    "main.327cf358.js.map": "/chess-moves-simulator/static/js/main.327cf358.js.map"
+    "main.css": "/static/css/main.59017101.css",
+    "main.js": "/static/js/main.327cf358.js",
+    "index.html": "/index.html",
+    "main.59017101.css.map": "/static/css/main.59017101.css.map",
+    "main.327cf358.js.map": "/static/js/main.327cf358.js.map"
   },
   "entrypoints": [
     "static/css/main.59017101.css",
