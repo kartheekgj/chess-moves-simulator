@@ -27,7 +27,12 @@ You can check the working version at [https://kartheekgj.github.io/chess-moves-s
 5. The application will highlight the selected position and display potential moves in dark red on the chessboard.
 6. Review the highlighted squares to analyze the available move options.
 7. Change your selection to see the possible moves
+8. This is a PWA so it works in offline too.
 
 ## Lighthouse Report
 ![image](https://github.com/kartheekgj/chess-moves-simulator/assets/1484950/1dc7e837-896c-4ba7-9408-f65569dbaf37)
+
+## Demo Simulation
+![ezgif-3-ffd00c3589](https://github.com/kartheekgj/chess-moves-simulator/assets/1484950/3194c05c-e515-49ce-80db-d84cf05abebf)
+
 
