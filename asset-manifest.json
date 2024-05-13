@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/chess-moves-simulator/static/css/main.59017101.css",
-    "main.js": "/chess-moves-simulator/static/js/main.327cf358.js",
+    "main.css": "/chess-moves-simulator/static/css/main.7e1ecf26.css",
+    "main.js": "/chess-moves-simulator/static/js/main.b32a93de.js",
     "index.html": "/chess-moves-simulator/index.html",
-    "main.59017101.css.map": "/chess-moves-simulator/static/css/main.59017101.css.map",
-    "main.327cf358.js.map": "/chess-moves-simulator/static/js/main.327cf358.js.map"
+    "main.7e1ecf26.css.map": "/chess-moves-simulator/static/css/main.7e1ecf26.css.map",
+    "main.b32a93de.js.map": "/chess-moves-simulator/static/js/main.b32a93de.js.map"
   },
   "entrypoints": [
-    "static/css/main.59017101.css",
-    "static/js/main.327cf358.js"
+    "static/css/main.7e1ecf26.css",
+    "static/js/main.b32a93de.js"
   ]
 }
