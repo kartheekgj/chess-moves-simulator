@@ -3,7 +3,6 @@ import React from "react";
 const OutputContainer = ({ selectedPosition, possibleMoves }) => {
   return (
     <div className="output-container">
-      <div>Output Data</div>
       {selectedPosition.length > 0 && (
         <div>
           Selected Position:

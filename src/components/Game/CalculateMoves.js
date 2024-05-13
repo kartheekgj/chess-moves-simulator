@@ -1,17 +1,14 @@
 export const CalculatePawnMovements = (row, col) => {
   const possibleMoves = [];
-  console.log(row,col);
   const nextRow = row + 1;
   if (nextRow <= 8) {
     possibleMoves.push(`${String.fromCharCode(64 + col)}${nextRow}`);
   }
-  console.log(possibleMoves);
   return possibleMoves;
 };
 
 export const CalculateKingMovements = (row, col) => {
   const possibleMoves = [];
-  console.log(row,col);
   for (let dx = -1; dx <= 1; dx++) {
     for (let dy = -1; dy <= 1; dy++) {
       if (dx === 0 && dy === 0) continue;
@@ -24,7 +21,6 @@ export const CalculateKingMovements = (row, col) => {
       }
     }
   }
-  console.log(possibleMoves)
   return possibleMoves;
 };
 

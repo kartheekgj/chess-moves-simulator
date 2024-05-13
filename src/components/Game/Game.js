@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useCallback, useState } from "react";
 import "./Game.css";
 
 import Chessboard from "./Chessboard";
@@ -26,7 +26,7 @@ export default function Game() {
     setSelectedPieces(pieceId);
   };
 
-  const calculatePossibleMoves = () => {
+  const calculatePossibleMoves = useCallback(() => {
     setError("");
     if (selectedPosition === "") {
       setError("Please select a position on the grid.");
@@ -43,9 +43,10 @@ export default function Game() {
       possibleMoves = CalculateQueenMovements(row, col);
     }
     setPossibleMoves(possibleMoves);
-  };
+  },[selectedPosition, selectedPieces]);
+
   return (
-    <div className="container">
+    <div className="container container-board">
       {error.length > 1 && <div className="error" data-testid="error-message">{error}</div>}
       <div className="content">
         <InputContainer
